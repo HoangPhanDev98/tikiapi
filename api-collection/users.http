@@ -14,10 +14,10 @@ POST {{baseUrl}}/{{resourceName}}
 Content-Type: application/json
 
 {
-     "fullName": "hoangphan@gmail.com",
-     "email": "hoangphan@gmail.com",
-     "password": "hoangphan",
-     "retypePassword": "hoangphan"
+     "fullName": "hoangphan1@gmail.com",
+     "email": "hoangphan1@gmail.com",
+     "password": "hoangphan1",
+     "retypePassword": "hoangphan1"
 }
 
 ###
